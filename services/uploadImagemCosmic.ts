@@ -1,4 +1,5 @@
 import multer from "multer";
+ // @ts-ignore
 import cosmicjs from "cosmicjs";
 
 const {
